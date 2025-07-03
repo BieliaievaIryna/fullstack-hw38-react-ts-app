@@ -10,7 +10,7 @@
 ## Демо
 
 **Демо-версія на Vercel:**  
-👉 [https://your-project-name.vercel.app](https://your-project-name.vercel.app)
+👉 [https://fullstack-hw38-react-ts-app.vercel.app/](https://fullstack-hw38-react-ts-app.vercel.app/)
 
 
 ## Структура проєкту
